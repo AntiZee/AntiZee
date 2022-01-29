@@ -47,10 +47,19 @@
 				<a href="https://www.adobe.com/products/photoshop/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"alt="adobephotoshop"width="100"height="100"/></a>
 				<a href="https://www.adobe.com/products/premiere/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"alt="adobepremierepro"width="100"height="100"/></a>
 				<a href="https://matroska.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matroska_Logo.svg"alt="matroska"width="100"height="100"/></a>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X264.png"alt="x264"width="200"height="100"/>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/>
-				<img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/>	
+				<a href="https://www.videolan.org/developers/x264.html"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X264.png"alt="x264"width="200"height="100"/></a>
+				<a href="https://www.x265.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/></a>
+				<a href="https://multicorewareinc.com/what-we-deliver/video-codecs/x266-vvc-encoder/"target="_blank"><img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/></a>
+				<a href="https://xiph.org/flac/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/></a>
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<tr>
+			<td align="center">Unrelated</td>
+			<td align="center">
+				<a href="https://abrsm.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/f/f6/ABRSM_logo.svg"alt="abrsm"width="100"height="100"/></a>
+				<a href="https://www.steinway.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Steinway_and_Sons_logo.svg"alt="steinway&sons"width="400"height="100"/></a>
 			</td>
 		</tr>
 	</tr>

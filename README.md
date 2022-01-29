@@ -8,8 +8,8 @@
 	</tr>
 	<tr>
 		<tr>
-			<td>Programming Languages</td>
-			<td>
+			<td align="center">Programming Languages</td>
+			<td align="center">
 				<a href="https://www.cprogramming.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"alt="c"width="100"height="100"/></a>
 				<a href="https://isocpp.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus"width="100"height="100"/></a>
 				<a href="https://dart.dev/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"alt="dart"width="100"height="100"/></a>
@@ -20,8 +20,8 @@
 	</tr>
 	<tr>
 		<tr>
-			<td>Operating Systems/Kernels</td>
-			<td>
+			<td align="center">Operating Systems/Kernels</td>
+			<td align="center">
 				<a href="https://www.android.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"alt="android"width="100"height="100"/></a>
 				<a href="https://www.linux.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"alt="linux"width="100"height="100"/></a>
 				<a href="https://opengroup.org/unix/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/UNIX_logo.svg/2560px-UNIX_logo.svg.png"alt="unix"width="200"height="100"/></a>
@@ -31,11 +31,26 @@
 	</tr>
 	<tr>
 		<tr>
-			<td>Sciences/Knowledges</td>
-			<td>
-				<a href="https://www.nasa.gov/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"alt="nasa"width="150"height="130"/></a>
-				<a href="https://home.cern/"target="_blank"><img src=""https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png"alt="cern"width="130"height="130"/></a>
-				<a href="https://www.rigb.org/"target="_blank"><img src="https://pbs.twimg.com/profile_images/1149750019408433156/WHYijfFH_400x400.png"alt="rigb"width="130"height="130"/></a>
+			<td align="center">Sciences/Knowledges</td>
+			<td align="center">
+				<a href="https://home.cern/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png"alt="cern"width="100"height="100"/></a>
+				<a href="https://www.nasa.gov/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"alt="nasa"width="120"height="100"/></a>
+				<a href="https://www.rigb.org/"target="_blank"><img src="https://pbs.twimg.com/profile_images/1149750019408433156/WHYijfFH_400x400.png"alt="rigb"width="100"height="100"/></a>
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<tr>
+			<td align="center">Multimedias</td>
+			<td align="center">
+				<a href="https://www.adobe.com/products/aftereffects/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"alt="adobeaftereffects"width="100"height="100"/></a>
+				<a href="https://www.adobe.com/products/photoshop/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"alt="adobephotoshop"width="100"height="100"/></a>
+				<a href="https://www.adobe.com/products/premiere/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"alt="adobepremierepro"width="100"height="100"/></a>
+				<a href="https://matroska.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matroska_Logo.svg"alt="matroska"width="100"height="100"/></a>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X264.png"alt="x264"width="200"height="100"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/>
+				<img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/>	
 			</td>
 		</tr>
 	</tr>

@@ -4,7 +4,7 @@
 <br/>
 <table align="center">
 	<tr>
-		<th colspan="2">INTERESTS</th>
+		<th colspan="2"><h3>INTERESTS</h3></th>
 	</tr>
 	<tr>
 		<tr>

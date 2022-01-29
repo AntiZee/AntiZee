@@ -29,6 +29,16 @@
 			</td>
 		</tr>
 	</tr>
+	<tr>
+		<tr>
+			<td>Sciences/Knowledges</td>
+			<td>
+				<a href="https://www.nasa.gov/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"alt="nasa"width="150"height="130"/></a>
+				<a href="https://home.cern/"target="_blank"><img src=""https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png"alt="cern"width="130"height="130"/></a>
+				<a href="https://www.rigb.org/"target="_blank"><img src="https://pbs.twimg.com/profile_images/1149750019408433156/WHYijfFH_400x400.png"alt="rigb"width="130"height="130"/></a>
+			</td>
+		</tr>
+	</tr>
 </table>
 <p align="center">
 	<a href="https://www.github.com/zqktlwi4fecvo6ri">

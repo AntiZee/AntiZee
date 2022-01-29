@@ -1,5 +1,5 @@
-<h1 align="center">Integer 64-bit 🗿🗿</h1>
-<h3 align="center">I'm not a Programmer, I'm a Professional Google Searcher 🗿🗿</h3>
+<h1 align="center">2<sup>62</sup> - 1</h1>
+<h3 align="center">I'm not a Programmer, I'm a Professional Google Searcher</h3>
 <br/>
 <br/>
 <table align="center">

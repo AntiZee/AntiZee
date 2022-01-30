@@ -60,6 +60,7 @@
 			<td align="center">
 				<a href="https://abrsm.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/f/f6/ABRSM_logo.svg"alt="abrsm"width="100"height="100"/></a>
 				<a href="https://www.steinway.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Steinway_and_Sons_logo.svg"alt="steinway&sons"width="400"height="100"/></a>
+				<a href="https://www.7-zip.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/7ziplogo.svg"alt="7zip"width="200"height="100"/></a>
 			</td>
 		</tr>
 	</tr>

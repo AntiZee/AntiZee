@@ -1,7 +1,5 @@
 <h1 align="center">2<sup>63</sup> - 1</h1>
-<h3 align="center">I'm not a Programmer, I'm a Professional Google Searcher</h3>
-<br/>
-<br/>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%FF00FF00&lines=I'm+not+a+Programmer,+I'm+a+Professional+Google+Searcher&center=true&vcenter=true&width=700"></h3>
 <table align="center">
 	<tr>
 		<th colspan="2"><h3>INTERESTS</h3></th>

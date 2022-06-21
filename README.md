@@ -41,7 +41,7 @@
 	</tr>
 	<tr>
 		<tr>
-			<td align="center">Multimedias</td>
+			<td align="center">Multimedia</td>
 			<td align="center">
 				<a href="https://www.adobe.com/products/aftereffects/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"alt="adobeaftereffects"width="100"height="100"/></a>
 				<a href="https://www.adobe.com/products/photoshop/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"alt="adobephotoshop"width="100"height="100"/></a>

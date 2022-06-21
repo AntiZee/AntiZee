@@ -1,4 +1,4 @@
-<h1 align="center">2<sup>63</sup> - 1</h1>
+<h1 align="center">Ǝ x<sub>1</sub> ¬ Ǝ x<sub>2</sub> (x<sub>2</sub> ∈ x<sub>1</sub>)</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%FF00FF00&lines=I'm+not+a+Programmer,+I'm+a+Professional+Google+Searcher&center=true&vcenter=true&width=700"></h3>
 <table align="center">
 	<tr>

@@ -68,10 +68,10 @@
 	</tr>
 </table>
 <p align="center">
-	<a href="https://www.github.com/zqktlwi4fecvo6ri">
-		<img src="https://img.shields.io/github/followers/zqktlwi4fecvo6ri?&color=000000&logo=Github&logoColor=000000&style=plastic"/>
+	<a href="https://www.github.com/AntiZee">
+		<img src="https://img.shields.io/github/followers/AntiZee?&color=000000&logo=Github&logoColor=000000&style=plastic"/>
 	</a>
-	<a href="https://komarev.com/ghpvc/?username=zqktlwi4fecvo6ri&color=000000&label=Viewed&style=plastic">
-		<img src="https://komarev.com/ghpvc/?username=zqktlwi4fecvo6ri&color=000000&label=Viewed&style=plastic"/>
+	<a href="https://komarev.com/ghpvc/?username=AntiZee&color=000000&label=Viewed&style=plastic">
+		<img src="https://komarev.com/ghpvc/?username=AntiZee&color=000000&label=Viewed&style=plastic"/>
 	</a>
 </p>

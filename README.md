@@ -33,16 +33,6 @@
 	</tr>
 	<tr>
 		<tr>
-			<td align="center">Sciences/Knowledges</td>
-			<td align="center">
-				<a href="https://home.cern/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png"alt="cern"width="100"height="100"/></a>
-				<a href="https://www.nasa.gov/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"alt="nasa"width="120"height="100"/></a>
-				<a href="https://www.rigb.org/"target="_blank"><img src="https://pbs.twimg.com/profile_images/1149750019408433156/WHYijfFH_400x400.png"alt="rigb"width="100"height="100"/></a>
-			</td>
-		</tr>
-	</tr>
-	<tr>
-		<tr>
 			<td align="center">Multimedia</td>
 			<td align="center">
 				<a href="https://www.adobe.com/products/aftereffects/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"alt="adobeaftereffects"width="100"height="100"/></a>
@@ -53,16 +43,6 @@
 				<a href="https://www.x265.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/></a>
 				<a href="https://multicorewareinc.com/what-we-deliver/video-codecs/x266-vvc-encoder/"target="_blank"><img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/></a>
 				<a href="https://xiph.org/flac/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/></a>
-			</td>
-		</tr>
-	</tr>
-	<tr>
-		<tr>
-			<td align="center">Unrelated</td>
-			<td align="center">
-				<a href="https://abrsm.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/f/f6/ABRSM_logo.svg"alt="abrsm"width="100"height="100"/></a>
-				<a href="https://www.steinway.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Steinway_and_Sons_logo.svg"alt="steinway&sons"width="400"height="100"/></a>
-				<a href="https://www.7-zip.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/7ziplogo.svg"alt="7zip"width="200"height="100"/></a>
 			</td>
 		</tr>
 	</tr>

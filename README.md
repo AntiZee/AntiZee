@@ -25,9 +25,8 @@
 			<td align="center">Operating Systems/Kernels</td>
 			<td align="center">
 				<a href="https://www.android.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"alt="android"width="100"height="100"/></a>
-				<a href="https://www.linux.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"alt="linux"width="100"height="100"/></a>
-				<a href="https://opengroup.org/unix/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/UNIX_logo.svg/2560px-UNIX_logo.svg.png"alt="unix"width="200"height="100"/></a>
 				<a href="https://microsoft.com/windows/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"alt="windows"width="100"height="100"/></a>
+				<a href="https://www.linux.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"alt="linux"width="100"height="100"/></a>
 			</td>
 		</tr>
 	</tr>

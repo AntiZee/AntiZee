@@ -10,11 +10,12 @@
 		<tr>
 			<td align="center">Programming Languages</td>
 			<td align="center">
-				<a href="https://www.cprogramming.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"alt="c"width="100"height="100"/></a>
-				<a href="https://isocpp.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus"width="100"height="100"/></a>
-				<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="csharp"width="100"height="100"/></a>
+				<a href="https://www.cprogramming.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"alt="c"width="100"height="100"/></a>
+				<a href="https://isocpp.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"alt="cplusplus"width="100"height="100"/></a>
+				<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"alt="csharp"width="100"height="100"/></a>
 				<a href="https://dart.dev/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"alt="dart"width="100"height="100"/></a>
 				<a href="https://www.oracle.com/java/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="java"width="100"height="100"/></a>
+				<a href="https://www.php.net/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"alt="php"width="100"height="100"/></a>
 				<a href="https://www.javascript.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript"width="100"height="100"/></a>
 				<a href="https://www.python.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python"width="100"height="100"/></a>
 			</td>

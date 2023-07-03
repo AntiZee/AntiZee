@@ -28,7 +28,7 @@
 				<a href="https://laravel.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"alt="laravel"width="100"height="100"/></a>
 				<a href="https://www.djangoproject.com/"target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"alt="django"width="100"height="100"/></a>
 				<a href="https://expressjs.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"alt="express"width="100"height="100"/></a>
-				<a href="https://react.dev/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"alt="express"width="100"height="100"/></a>
+				<a href="https://react.dev/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"alt="react"width="100"height="100"/></a>
 				<a href="https://flutter.dev/"target="_blank"><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"alt="flutter"width="100"height="100"/></a>
 			</td>
 		</tr>

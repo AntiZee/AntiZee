@@ -23,6 +23,17 @@
 	</tr>
 	<tr>
 		<tr>
+			<td align="center">Frameworks</td>
+			<td align="center">
+				<a href="https://laravel.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"alt="laravel"width="100"height="100"/></a>
+				<a href="https://www.djangoproject.com/"target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"alt="django"width="100"height="100"/></a>
+				<a href="https://react.dev/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"alt="express"width="100"height="100"/></a>
+				<a href="https://flutter.dev/"target="_blank"><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"alt="flutter"width="100"height="100"/></a>
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<tr>
 			<td align="center">Operating Systems/Kernels</td>
 			<td align="center">
 				<a href="https://www.android.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"alt="android"width="100"height="100"/></a>
@@ -43,6 +54,14 @@
 				<a href="https://www.x265.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/></a>
 				<a href="https://multicorewareinc.com/what-we-deliver/video-codecs/x266-vvc-encoder/"target="_blank"><img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/></a>
 				<a href="https://xiph.org/flac/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/></a>
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<tr>
+			<td align="center">Cryptographic Hash Function</td>
+			<td align="center">
+				<p>MD5, SHA-1, SHA-2, SHA-3, KECCAK, Bcrypt, Argon2</p>
 			</td>
 		</tr>
 	</tr>

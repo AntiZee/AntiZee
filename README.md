@@ -37,7 +37,7 @@
 		<tr>
 			<td align="center">Operating Systems/Kernels</td>
 			<td align="center">
-				<a href="https://www.android.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg"alt="android"width="100"height="100"/></a>
+				<a href="https://www.android.com/"target="_blank"><img src="https://developer.android.com/static/images/brand/Android_Robot.svg"alt="android"width="100"height="100"/></a>
 				<a href="https://microsoft.com/windows/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"alt="windows"width="100"height="100"/></a>
 				<a href="https://www.linux.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"alt="linux"width="100"height="100"/></a>
 			</td>

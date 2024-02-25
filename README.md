@@ -22,7 +22,7 @@
 			<td align="center">
 				<a href="https://laravel.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"alt="laravel"width="100"height="100"/></a>
 				<a href="https://www.djangoproject.com/"target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"alt="django"width="100"height="100"/></a>
-				<a href="https://expressjs.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"alt="express"width="100"height="100"/></a>
+				<a href="https://nodejs.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"alt="nodejs"width="100"height="100"/></a>
 				<a href="https://dotnet.microsoft.com"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"alt="dotnet"width="100"height="100"/></a>
 				<a href="https://react.dev/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"alt="react"width="100"height="100"/></a>
 				<a href="https://flutter.dev/"target="_blank"><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"alt="flutter"width="100"height="100"/></a>
@@ -33,9 +33,9 @@
 			<td align="center">
 				<a href="https://www.mysql.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"alt="mysql"width="100"height="100"/></a>
 				<a href="https://www.postgresql.org/"target="_blank"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"alt="postgresql"width="100"height="100"/></a>
-				<a href="https://www.oracle.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="oracle"width="100"height="100"/></a>
-				<a href="https://www.microsoft.com/en-gb/sql-server/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"alt="sqlserver"width="125"height="100"/></a>
 				<a href="https://www.mongodb.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"alt="mongodb"width="100"height="100"/></a>
+				<a href="https://www.microsoft.com/en-gb/sql-server/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"alt="sqlserver"width="125"height="100"/></a>
+				<a href="https://www.oracle.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="oracle"width="100"height="100"/></a>
 			</td>
 	</tr>
 	<tr>
@@ -44,6 +44,10 @@
 				<a href="https://www.android.com/"target="_blank"><img src="https://developer.android.com/static/images/brand/Android_Robot.svg"alt="android"width="100"height="100"/></a>
 				<a href="https://microsoft.com/windows/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"alt="windows"width="100"height="100"/></a>
 				<a href="https://www.linux.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"alt="linux"width="100"height="100"/></a>
+				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
+				<a href="https://www.kali.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"alt="kali"width="100"height="100"/></a>
+				<a href="https://www.debian.org/"target="_blank"><img src="https://www.debian.org/logos/openlogo-nd.svg"alt="debian"width="100"height="100"/></a>
+				<a href="https://linuxmint.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg"alt="debian"width="100"height="100"/></a>
 			</td>
 	</tr>
 	<tr>

@@ -14,6 +14,7 @@
 				<a href="https://www.oracle.com/java/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="java"width="100"height="100"/></a>
 				<a href="https://www.php.net/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"alt="php"width="100"height="100"/></a>
 				<a href="https://www.javascript.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript"width="100"height="100"/></a>
+				<a href="https://www.typescriptlang.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"alt="typescript"width="100"height="100"/></a>
 				<a href="https://www.python.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python"width="100"height="100"/></a>
 			</td>
 	</tr>

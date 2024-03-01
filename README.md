@@ -7,12 +7,12 @@
 	<tr>
 			<td align="center">Programming Languages</td>
 			<td align="center">
-				<a href="https://www.cprogramming.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"alt="c"width="100"height="100"/></a>
+				<a href="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"alt="c"width="100"height="100"/></a>
 				<a href="https://isocpp.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"alt="cplusplus"width="100"height="100"/></a>
-				<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"alt="csharp"width="100"height="100"/></a>
-				<a href="https://dart.dev/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"alt="dart"width="100"height="100"/></a>
-				<a href="https://www.oracle.com/java/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="java"width="100"height="100"/></a>
+				<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"alt="csharp"width="100"height="100"/></a>
 				<a href="https://www.php.net/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"alt="php"width="100"height="100"/></a>
+				<a href="https://www.oracle.com/java/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="java"width="100"height="100"/></a>
+				<a href="https://dart.dev/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"alt="dart"width="100"height="100"/></a>
 				<a href="https://www.javascript.com/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript"width="100"height="100"/></a>
 				<a href="https://www.typescriptlang.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"alt="typescript"width="100"height="100"/></a>
 				<a href="https://www.python.org/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python"width="100"height="100"/></a>
@@ -49,19 +49,6 @@
 				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
 				<a href="https://www.kali.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"alt="kali"width="100"height="100"/></a>
 				<a href="https://linuxmint.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg"alt="debian"width="100"height="100"/></a>
-			</td>
-	</tr>
-	<tr>
-			<td align="center">Multimedia</td>
-			<td align="center">
-				<a href="https://www.adobe.com/products/aftereffects/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"alt="adobeaftereffects"width="100"height="100"/></a>
-				<a href="https://www.adobe.com/products/photoshop/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"alt="adobephotoshop"width="100"height="100"/></a>
-				<a href="https://www.adobe.com/products/premiere/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"alt="adobepremierepro"width="100"height="100"/></a>
-				<a href="https://matroska.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matroska_Logo.svg"alt="matroska"width="100"height="100"/></a>
-				<a href="https://www.videolan.org/developers/x264.html"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X264.png"alt="x264"width="200"height="100"/></a>
-				<a href="https://www.x265.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/X265_HEVC_Encoder_Logo.png"alt="x265"width="200"height="100"/></a>
-				<a href="https://multicorewareinc.com/what-we-deliver/video-codecs/x266-vvc-encoder/"target="_blank"><img src="https://opensalessolutions.net/wp-content/uploads/2020/12/x266b.png"alt="x266"width="200"height="120"/></a>
-				<a href="https://xiph.org/flac/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg"alt="flac"width="200"height="100"/></a>
 			</td>
 	</tr>
 	<tr>

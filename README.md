@@ -48,6 +48,7 @@
 				<a href="https://archlinux.org/"target="_blank"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg"alt="arch"width="250"height="100"/></a>
 				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
 				<a href="https://www.kali.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"alt="kali"width="100"height="100"/></a>
+				<a href="https://linuxmint.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg"alt="debian"width="100"height="100"/></a>
 			</td>
 	</tr>
 	<tr>

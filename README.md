@@ -54,7 +54,7 @@
 	<tr>
 			<td align="center">Cryptographic Hash Function</td>
 			<td align="center">
-				<p>MD5, SHA-1, SHA-2, SHA-3, KECCAK, Bcrypt, Argon2</p>
+				<p>SHA-1, SHA-2, SHA-3, Bcrypt, Argon2</p>
 			</td>
 	</tr>
 </table>

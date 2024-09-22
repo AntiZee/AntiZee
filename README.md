@@ -18,7 +18,7 @@
 	<tr>
 			<td align="center">Frameworks</td>
 			<td align="center">
-				<a href="https://expressjs.com/"target="_blank"><img src="https://expressjs.com/images/brand/logo-dark.svg"alt="expressjs"width="100"height="100"/></a>
+				<a href="https://expressjs.com/"target="_blank"><img src="https://expressjs.com/images/brand/logo-light.svg"alt="expressjs"width="100"height="100"/></a>
 				<a href="https://nestjs.com/"target="_blank"><img src="https://docs.nestjs.com/assets/logo-small-gradient.svg"alt="nestjs"width="100"height="100"/></a>
 				<a href="https://www.djangoproject.com/"target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"alt="django"width="100"height="100"/></a>
 				<a href="https://flask.palletsprojects.com/"target="_blank"><img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/main/docs/_static/shortcut-icon.png"alt="flask"width="100"height="100"/></a>

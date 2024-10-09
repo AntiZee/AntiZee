@@ -48,6 +48,7 @@
 				<a href="https://www.debian.org/"target="_blank"><img src="https://www.debian.org/logos/openlogo-nd.svg"alt="debian"width="100"height="100"/></a>
 				<a href="https://www.kali.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"alt="kali"width="100"height="100"/></a>
 				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
+				<a href="https://www.redhat.com/"target="_blank"><img src="https://www.redhat.com/rhdc/managed-files/Asset-Red_Hat-Logo_page-General-This-RGB.svg"alt="redhat"width="100"height="100"/></a>
 			</td>
 	</tr>
 	<tr>

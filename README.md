@@ -41,7 +41,7 @@
 	<tr>
 			<td align="center">Operating Systems/Kernels</td>
 			<td align="center">
-				<a href="https://www.android.com/"target="_blank"><img src="https://developer.android.com/static/images/brand/Android_Robot.svg"alt="android"width="100"height="100"/></a>
+				<a href="https://www.android.com/"target="_blank"><img src="https://developer.android.com/static/images/brand/android-head_3D.svg"alt="android"width="165"height="100"/></a>
 				<a href="https://microsoft.com/windows/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"alt="windows"width="100"height="100"/></a>
 				<a href="https://gentoo.org/"target="_blank"><img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg"alt="gentoo"width="100"height="100"/></a>
 				<a href="https://archlinux.org/"target="_blank"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg"alt="arch"width="275"height="100"/></a>

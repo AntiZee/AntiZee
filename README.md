@@ -45,9 +45,7 @@
 				<a href="https://microsoft.com/windows/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"alt="windows"width="100"height="100"/></a>
 				<a href="https://gentoo.org/"target="_blank"><img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg"alt="gentoo"width="100"height="100"/></a>
 				<a href="https://archlinux.org/"target="_blank"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg"alt="arch"width="275"height="100"/></a>
-				<a href="https://blackarch.org/"target="_blank"><img src="https://blackarch.org/images/logo/ba-logo.png"alt="blackarch"width="100"height="100"/></a>
 				<a href="https://www.debian.org/"target="_blank"><img src="https://www.debian.org/logos/openlogo-nd.svg"alt="debian"width="100"height="100"/></a>
-				<a href="https://www.kali.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"alt="kali"width="100"height="100"/></a>
 				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
 				<a href="https://www.redhat.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg"alt="redhat"width="100"height="100"/></a>
 			</td>

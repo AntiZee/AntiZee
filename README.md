@@ -35,7 +35,6 @@
 				<a href="https://redis.io/"target="_blank"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg"alt="redis"width="100"height="100"/></a>
 				<a href="https://www.microsoft.com/en-gb/sql-server/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"alt="sqlserver"width="125"height="100"/></a>
 				<a href="https://www.oracle.com/database/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="oracle"width="100"height="100"/></a>
-				<a href="https://neo4j.com/"target="_blank"><img src="https://dist.neo4j.com/wp-content/uploads/20231115090302/Neo4j-Full.svg"alt="neo4j"width="250"height="100"/></a>
 			</td>
 	</tr>
 	<tr>
@@ -53,7 +52,7 @@
 	<tr>
 			<td align="center">Cryptographic Hash Function</td>
 			<td align="center">
-				<p>SHA-1, SHA-2, SHA-3, Bcrypt, Argon2</p>
+				<p>SHA-1, SHA-2, SHA-3, Keccak, bcrypt, scrypt, argon2</p>
 			</td>
 	</tr>
 </table>
